@@ -1,6 +1,14 @@
 # Guideline
 
-Code for this study is available at: [https://github.com/Vicellken/CNN-SS-mussel](https://github.com/Vicellken/CNN-SS-mussel)
+Code for the study:
+```
+Gu et al., 2023, A comparative study on CNN-based semantic segmentation of intertidal mussel beds. Ecological Informatics
+```
+
+If you find this work useful for your research, please cite as:
+```
+
+```
 
 ## 1. Setup environment
 
