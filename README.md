@@ -1,13 +1,11 @@
 # Guideline
 
-Code for the study:
-```
-Gu et al., 2023, A comparative study on CNN-based semantic segmentation of intertidal mussel beds. Ecological Informatics
-```
 
 If you find this work useful for your research, please cite as:
 ```
-
+Y.-F. Gu, J. Hu and G.A. Williams, A comparative study
+on CNN-based semantic segmentation of intertidal mussel beds, Ecological Informatics
+(2023), https://doi.org/10.1016/j.ecoinf.2023.102116
 ```
 
 ## 1. Setup environment
