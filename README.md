@@ -1,13 +1,5 @@
 # Guideline
 
-
-If you find this work useful for your research, please cite as:
-```
-Y.-F. Gu, J. Hu and G.A. Williams, A comparative study
-on CNN-based semantic segmentation of intertidal mussel beds, Ecological Informatics
-(2023), https://doi.org/10.1016/j.ecoinf.2023.102116
-```
-
 ## 1. Setup environment
 
 Install Anaconda or miniconda to your device. See more information at [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
@@ -145,4 +137,13 @@ python get_pretain_weights.py
 
 <br />
 
+
+
 #### Reach me by email for more discussion. Happy to chat ;)
+
+If you find this work useful for your research, please cite as:
+```
+Y.-F. Gu, J. Hu and G.A. Williams, A comparative study
+on CNN-based semantic segmentation of intertidal mussel beds, Ecological Informatics
+(2023), https://doi.org/10.1016/j.ecoinf.2023.102116
+```
