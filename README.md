@@ -147,3 +147,18 @@ Y.-F. Gu, J. Hu and G.A. Williams, A comparative study
 on CNN-based semantic segmentation of intertidal mussel beds, Ecological Informatics
 (2023), https://doi.org/10.1016/j.ecoinf.2023.102116
 ```
+or
+```
+@article{Gu_2023,
+    doi = {10.1016/j.ecoinf.2023.102116},
+    url = {https://doi.org/10.1016%2Fj.ecoinf.2023.102116},
+    year = {2023},
+    month = {jul},
+    publisher = {Elsevier {BV}},
+    volume = {75},
+    pages = {102116},
+    author = {Yi-Fei Gu and Jiaxin Hu and Gray A. Williams},
+    title = {A comparative study on {CNN}-based semantic segmentation of intertidal mussel beds},
+    journal = {Ecological Informatics}
+} 
+```
